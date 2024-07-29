@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FacebookTimelineKotlin</string>
+    <string name="unBlast">Unblast</string>
+    <string name="time">2 hrs</string>
+    <string name="postCaption">Buckle up, because change is coming to WordPress</string>
+    <string name="captionTwo">http://unblast.com/color-schemes</string>
+    <string name="image">image</string>
+    <string name="earthImage">earthImage</string>
+    <string name="imagepost">imagePost</string>
+    <string name="likeIcon">likeIcon</string>
+    <string name="howManyLikes">12</string>
+    <string name="howManyShares">1 Share</string>
+    <string name="shareShow">shareShow</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+</resources>
